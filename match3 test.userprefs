@@ -1,0 +1,14 @@
+﻿<Properties StartupConfiguration="{08E78007-E4D7-7EC5-3A07-0FA64B3FF16D}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/CreateGame.cs">
+    <Files>
+      <File FileName="Assets/Scripts/CreateGame.cs" Line="56" Column="36" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.match3_220test PreferredExecutionTarget="Unity.Editor" />
+  <MultiItemStartupConfigurations />
+</Properties>
